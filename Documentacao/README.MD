@@ -1,4 +1,4 @@
-# 📊 Relatório Power BI – [Nome do Projeto]
+# 📊 Relatório Power BI – Atendimento 2023
 
 Este repositório contém o relatório desenvolvido em Power BI, incluindo imagens de pré-visualização e arquivos auxiliares.
 
@@ -7,9 +7,6 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 ## 🖼 Prévia do Relatório
 
 ![Dashboard Principal](./dashboard-principal.png)
-![Página de Vendas](./pagina-vendas.png)
-
-> As imagens acima mostram uma prévia das principais páginas do relatório.
 
 ---
 
@@ -20,14 +17,6 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 
 > **Obs:** Para abrir o arquivo `.pbix`, é necessário ter o **Power BI Desktop** instalado.  
 > Para abrir o arquivo `.xlsx`, use **Microsoft Excel** ou equivalente.
-
----
-
-## 📝 Notas do Projeto
-
-- **Fonte de dados:** Base de vendas extraída de [descrever origem]  
-- **Atualização:** Última atualização em **12/08/2025**  
-- **Objetivo:** Monitorar indicadores de vendas e performance comercial
 
 ---
 
