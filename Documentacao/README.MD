@@ -6,7 +6,7 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 
 ## 🖼 Prévia do Relatório
 
-![Dashboard Principal](./dashboard-principal.png)
+![Dashboard Principal](https://github.com/DanRebelato/PowerBI-Atendimento/blob/main/Documentacao/Atendimento_2023.png)
 
 ---
 
@@ -22,5 +22,5 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 
 ## 📌 Observações
 
-- Os dados utilizados neste projeto são fictícios/sanitizados.  
+- Os dados e nomes utilizados neste projeto são fictícios.
 - Relatório otimizado para visualização em desktop.
