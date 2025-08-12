@@ -12,8 +12,8 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 
 ## 📂 Arquivos para Download
 
-- [📄 Download do relatório Power BI (.pbix)](https://github.com/DanRebelato/PowerBI-Atendimento/blob/main/Documentacao/Atendimento%20Rede%202023.pbix)
-- [📊 Planilha de dados (.xlsx)](https://github.com/DanRebelato/PowerBI-Atendimento/blob/main/Documentacao/Simulado%202023.xlsx)
+- [📄 Download do relatório Power BI (.pbix)](https://github.com/DanRebelato/PowerBI-Atendimento/raw/refs/heads/main/Documentacao/Atendimento%20Rede%202023.pbix)
+- [📊 Planilha de dados (.xlsx)](https://github.com/DanRebelato/PowerBI-Atendimento/raw/refs/heads/main/Documentacao/Simulado%202023.xlsx)
 
 > **Obs:** Para abrir o arquivo `.pbix`, é necessário ter o **Power BI Desktop** instalado.  
 > Para abrir o arquivo `.xlsx`, use **Microsoft Excel** ou equivalente.
