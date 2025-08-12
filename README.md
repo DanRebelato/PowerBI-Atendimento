@@ -1,4 +1,4 @@
-[Read in English](README-en.md)
+[Read in English](https://github.com/DanRebelato/PowerBI-Atendimento/blob/main/README-EN.md)
 
 # 📊 Relatório de acompanhamento de demanda e metas orçamentárias por segmento - Power BI
 
