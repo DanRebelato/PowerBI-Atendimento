@@ -50,9 +50,3 @@ Embora os arquivos intermediários e originais não estejam neste repositório, 
 - Danilo Rebelato 
 - Email: dnl.rebelato@yahoo.com
 - LinkedIn: www.linkedin.com/in/danilorebelato
-
-
-- Danilo Rebelato 
-- Email: dnl.rebelato@yahoo.com
-- LinkedIn: www.linkedin.com/in/danilorebelato
-
