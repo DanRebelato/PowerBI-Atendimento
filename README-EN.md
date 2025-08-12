@@ -9,8 +9,6 @@ The goal of this report is to provide a consolidated view of the main fulfillmen
 
 ## 🧩 About the Data
 
-> ⚠️ Due to confidentiality reasons, the original data used in this project is not available for review or sharing.
-
 The Excel dataset used in this dashboard was generated from a complete **extract, transform, and load (ETL)** process involving:
 
 - Extraction of raw data via **SAP**, from various modules and operational reports;
