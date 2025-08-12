@@ -11,8 +11,6 @@ O objetivo deste relatório é fornecer uma visão consolidada dos principais in
 
 ## 🧩 Sobre os Dados
 
-> ⚠️ Por questões de confidencialidade, os dados originais utilizados neste projeto não estão disponíveis para consulta ou compartilhamento.
-
 A base de dados em Excel utilizada neste dashboard foi gerada a partir de um processo completo de extração, transformação e carga (ETL), envolvendo:
 
 - Extração de dados brutos via SAP, a partir de diferentes módulos e relatórios operacionais;
