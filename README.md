@@ -1,3 +1,5 @@
+[Read in English](README-en.md)
+
 # 📊 Relatório de acompanhamento de demanda e metas orçamentárias por segmento - Power BI
 
 Este projeto apresenta um dashboard em Power BI com foco no acompanhamento do atendimento de demandas e cumprimento de metas orçamentárias, dentro de uma multinacional de telecomunicações.  
