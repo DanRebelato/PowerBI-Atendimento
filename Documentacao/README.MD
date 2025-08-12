@@ -1,0 +1,37 @@
+# 📊 Relatório Power BI – [Nome do Projeto]
+
+Este repositório contém o relatório desenvolvido em Power BI, incluindo imagens de pré-visualização e arquivos auxiliares.
+
+---
+
+## 🖼 Prévia do Relatório
+
+![Dashboard Principal](./dashboard-principal.png)
+![Página de Vendas](./pagina-vendas.png)
+
+> As imagens acima mostram uma prévia das principais páginas do relatório.
+
+---
+
+## 📂 Arquivos para Download
+
+- [📄 Download do relatório Power BI (.pbix)](./meu-relatorio.pbix)
+- [📊 Planilha de dados (.xlsx)](./dados-base.xlsx)
+
+> **Obs:** Para abrir o arquivo `.pbix`, é necessário ter o **Power BI Desktop** instalado.  
+> Para abrir o arquivo `.xlsx`, use **Microsoft Excel** ou equivalente.
+
+---
+
+## 📝 Notas do Projeto
+
+- **Fonte de dados:** Base de vendas extraída de [descrever origem]  
+- **Atualização:** Última atualização em **12/08/2025**  
+- **Objetivo:** Monitorar indicadores de vendas e performance comercial
+
+---
+
+## 📌 Observações
+
+- Os dados utilizados neste projeto são fictícios/sanitizados.  
+- Relatório otimizado para visualização em desktop.
