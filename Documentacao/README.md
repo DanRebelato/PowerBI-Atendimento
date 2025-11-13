@@ -2,13 +2,13 @@
 
 Este repositório contém o relatório desenvolvido em Power BI, incluindo imagens de pré-visualização e arquivos auxiliares.
 
----
+
 
 ## 🖼 Prévia do Relatório
 
 ![Dashboard Principal](https://github.com/DanRebelato/PowerBI-Atendimento/blob/main/Documentacao/Atendimento_2023.png)
 
----
+
 
 ## 📂 Arquivos para Download
 
@@ -18,7 +18,7 @@ Este repositório contém o relatório desenvolvido em Power BI, incluindo image
 > **Obs:** Para abrir o arquivo `.pbix`, é necessário ter o **Power BI Desktop** instalado.  
 > Para abrir o arquivo `.xlsx`, use **Microsoft Excel** ou equivalente.
 
----
+
 
 ## 📌 Observações
 
